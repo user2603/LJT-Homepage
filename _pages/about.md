@@ -35,6 +35,11 @@ Research Experience
 - **Research Intern at Shanghai AI Lab** (June 2023 - December 2023)
   - Advisor: Prof. Yu Cheng
 
+Skills
+======
+* Natural Language Processing
+* Machine Learning
+
 Awards
 ======
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
