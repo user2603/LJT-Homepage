@@ -66,7 +66,7 @@ I am Junteng Liu, a first-year Ph.D. candidate at the HKUST NLP Group, Hong Kong
   - Venue: NeurIPS 2023
   - Co-author
 
-See the [Publications page](/publications/) for more details.
+See the [Publications page]({{ '/publications/' | relative_url }}) for more details.
 
 ## Skills
 
